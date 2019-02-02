@@ -1,4 +1,4 @@
 # myRepository_Michael
 
-#What is this Repository?
-It is wher emy stuff from 3IE3 will go
+# What is this Repository?
+It is where my stuff from 3IE3 will go
